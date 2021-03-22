@@ -19,3 +19,18 @@ The deadline for the second intake application is October 22, 2020 (11:59pm PDT)
    - Improved access to and/or increased quality of cultural, recreational and/or community
 infrastructure for Canadians, including Indigenous peoples and vulnerable
 populations.
+   - be for the construction, renewal, rehabilitation or material enhancement of
+infrastructure, excluding normal maintenance or operation
+
+#### Project Size
+- An average grant request of $2.07M; and
+- One single largest grant of $7.4M. 
+
+
+#### Eligible Costs
+- this is a subset
+- the capital costs of constructing or renovating a tangible asset, as defined and
+determined according to generally accepted accounting principles in Canada;
+- all planning (including plans and specifications), assessment and design costs
+specified in the agreement such as the costs of environmental planning, surveying,
+engineering, architectural supervision, testing
