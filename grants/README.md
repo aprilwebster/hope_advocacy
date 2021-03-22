@@ -44,3 +44,9 @@ or exhibition.
    - Socio-Economic Benefits and Impacts
 
 - The City of Vancouver also has some good resources for organizations that are considering doing infrastructure projects: https://vancouver.ca/people-programs/cultural-infrastructure-grant-program.aspx
+
+### Contact Info
+Pierre Stolte
+Senior Program Advisor
+Western Region
+Department of Canadian Heritage, Government of Canada
